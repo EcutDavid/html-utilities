@@ -1,0 +1,21 @@
+{
+  "name": "html-utilities",
+  "version": "1.0.3",
+  "description": "We shouldn't waste time in building same function on different projects.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EcutDavid/html-utilities.git"
+  },
+  "author": "David Guan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EcutDavid/html-utilities/issues"
+  },
+  "homepage": "https://github.com/EcutDavid/html-utilities#readme"
+}
